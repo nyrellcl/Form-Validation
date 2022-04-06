@@ -151,7 +151,7 @@ form{
 }
 
 .image{
-  background-image: url(./form-imgs/illustration.svg");
+  background-image: url('./form-imgs/illustration.svg');
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
