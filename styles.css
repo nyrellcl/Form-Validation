@@ -113,9 +113,22 @@ button:hover{
   font-family: 'Karla', sans-serif;
 }
 
+.btn-1{
+  transition: all 200ms ease-in-out;
+}
+
+.btn-1:hover{
+  border-color: #272626;
+}
+
 .btn-2{
   background-color: #4f70b5;
   color: #fff;
+  transition: all 200ms ease-in-out;
+}
+
+.btn-2:hover{
+  opacity: 0.8;
 }
 
 .or{
