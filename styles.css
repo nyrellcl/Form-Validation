@@ -145,11 +145,6 @@ span{
   padding: 10px 20px;
 }
 
-form{
-  width: 45%;
-  max-width: none;
-}
-
 .image{
   background-image: url('./form-imgs/illustration.svg');
   background-repeat: no-repeat;
