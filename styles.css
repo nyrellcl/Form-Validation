@@ -93,7 +93,7 @@ button:hover{
 
 .btn{
   display: flex;
-  flex-direction: column;
+  flex-direction: column;/*Better UX when buttons are stacked vertically rather than side by side*/
   justify-content: space-between;
   gap: 15px;
 }
