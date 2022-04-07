@@ -107,7 +107,8 @@ button:hover{
   justify-content: center;
   align-items: center;
   border: 2px solid #c4c4c4;
-  border-radius: 8px; box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 8px; 
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
   cursor: pointer;
   font-family: 'Karla', sans-serif;
 }
